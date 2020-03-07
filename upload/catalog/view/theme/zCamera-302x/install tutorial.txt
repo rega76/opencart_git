@@ -1,0 +1,13 @@
+---Designed by Zerotheme.com
++ Don't remove Default Theme.
++ Open "upload to host" and upload theme to your hosting at this location:
+	../root folder/catalog/view/theme/
++ Go to Admin Cpanel
+	Version Opencart : 3.x
+		+ Go to Extensions > Extensions
+		+ Select Themes at "Choose the extension type"
+		+ Click button edit for Your Store
+		+ Select new theme at Theme Directory
+		+ Save and refesh your site
+		
+=> If the theme does not change, you should turn off cache of opencart. Go to "Dashboard", click the gear button located at the top right of the dashboard page. And then, turn off the cache.
